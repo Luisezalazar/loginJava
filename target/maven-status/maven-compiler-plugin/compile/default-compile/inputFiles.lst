@@ -1,0 +1,10 @@
+Z:\Netbeans\login\src\main\java\com\mycompany\login\Login.java
+Z:\Netbeans\login\src\main\java\com\mycompany\login\igu\Principal.java
+Z:\Netbeans\login\src\main\java\com\mycompany\login\persistencia\exceptions\NonexistentEntityException.java
+Z:\Netbeans\login\src\main\java\com\mycompany\login\igu\Bienvenida.java
+Z:\Netbeans\login\src\main\java\com\mycompany\login\logica\Usuario.java
+Z:\Netbeans\login\src\main\java\com\mycompany\login\persistencia\UsuarioJpaController.java
+Z:\Netbeans\login\src\main\java\com\mycompany\login\persistencia\exceptions\IllegalOrphanException.java
+Z:\Netbeans\login\src\main\java\com\mycompany\login\persistencia\exceptions\PreexistingEntityException.java
+Z:\Netbeans\login\src\main\java\com\mycompany\login\persistencia\ControladoraPersistencia.java
+Z:\Netbeans\login\src\main\java\com\mycompany\login\logica\Controladora.java
